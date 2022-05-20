@@ -14,3 +14,4 @@ you can practice using these news, which have been already scraped for you, and 
 
 Depending on how you installed python in your system you might have to substitute *python* with *python3* but
 make sure you have a version of python >= than 3.6
+
